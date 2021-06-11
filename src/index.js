@@ -1,3 +1,1 @@
-//destructuracion objetos
-//o
-//asginacion desestructuracion
+//destructuracion de arrays
